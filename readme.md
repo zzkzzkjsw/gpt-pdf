@@ -6,7 +6,7 @@
 
 ### 前端
 
-在[chatgpt-web]('https://github.com/Chanzhaoyu/chatgpt-web/tree/main')基础上进行二次开发，添加了用户注册、登录、上传文档功能，并实现多用户管理
+在[chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web/tree/main)基础上进行二次开发，添加了用户注册、登录、上传文档功能，并实现多用户管理
 
 ![login](./docs/login.png)
 ![chat](./docs/chat.png)
